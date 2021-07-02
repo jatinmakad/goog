@@ -1,0 +1,57 @@
+
+.serach_logo{
+    object-fit: contain;
+    height: 50px;
+    margin-right: 50px;
+}
+.searchpage_header{
+    display: flex;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 100;
+    align-items: flex-start;
+    padding: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+
+.search_options{
+    display: flex;
+    justify-content: space-around;
+}
+.search_option{
+    display: flex;
+    align-items: center;
+}
+.search_option a{
+    text-decoration: none;
+    color: gray;
+}
+.res{
+    margin: 40px 0;
+}
+.searchpage_re{
+    max-width: 650px;
+    margin-top: 20px;
+    margin-left: 240px;
+    margin-bottom: 100px;
+}
+.res_title{
+    text-decoration: none;
+    color: blue;
+    font-size: 14px;
+}
+.res_main{
+    text-decoration: none;
+    color: blue;
+}
+.searchpage_reCOunt{
+    color: gray;
+}
+.image{
+    object-fit: contain;
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
